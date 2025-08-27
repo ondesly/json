@@ -1,3 +1,0 @@
-set(JSON_ROOT ${CMAKE_CURRENT_LIST_DIR}/../)
-
-set(JSON_INCLUDE_DIRS ${JSON_ROOT}/single_include)
