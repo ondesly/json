@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .target(
             name: "json",
-            path: "single_include/nlohmann",
+            path: "single_include",
             publicHeadersPath: "."
         )
     ],
